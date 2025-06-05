@@ -64,3 +64,5 @@ Then right click on three dots and click on remove it
 ![](https://miro.medium.com/v2/resize:fit:700/1*R7vk68Aik6SsAH2Wi58QnA.png)
 
 Here I finally remove it suspicious extension
+
+![](https://miro.medium.com/v2/resize:fit:488/1*76TeSQPL5_Lfn55qfIfAPg.png)
